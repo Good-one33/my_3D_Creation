@@ -1,0 +1,16 @@
+ voici une description générale des principaux composants du système de direction à crémaillère :
+
+Crémaillère : La crémaillère est une barre droite avec des dents située horizontalement. Sa longueur dépend de la largeur du véhicule
+ et de la configuration spécifique du système de direction.
+
+Pignon de direction : Le pignon de direction est une petite roue dentée qui est en contact direct avec la crémaillère. Il est monté sur 
+un arbre relié au volant de direction. Lorsque le conducteur tourne le volant, le mouvement du pignon de direction fait bouger la crémaillère.
+
+Biellette de direction : Les biellettes de direction sont des barres de liaison qui relient la crémaillère aux bras de direction des roues avant.
+ Elles transmettent le mouvement de la crémaillère aux roues pour les faire tourner dans la direction souhaitée.
+
+Colonne de direction : La colonne de direction est un tube qui relie le volant à la crémaillère. Elle permet au volant de se déplacer de haut en 
+bas et d'avant en arrière tout en transmettant le mouvement de rotation du conducteur à la crémaillère.
+
+Rotules de direction : Les rotules de direction sont des joints articulés situés à chaque extrémité des biellettes de direction. Elles permettent
+ aux roues de tourner librement tout en maintenant la connexion entre la crémaillère et les bras de direction.
